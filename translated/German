@@ -1,15 +1,24 @@
-German sculptor and artist, Professor Tobias Rehberger has created ‘hybrid NFT art’ titled Fairytales and Conspiracies. Using material from the stock photo agency, Action Press, he has created five digitally animated collages – which are 3,750 digital frames.
-
-Tobias Rehberger Fairytales & Conspiracies
-Tobias Rehberger is the artist behind Fairytales and Conspiracies.
-Fairytales and Conspiracies
-With ‘Fairytales and Conspiracies,’ artist, Tobias Rehberger is devoting himself to the subject of authorship of art, originality and value. In order to create his artwork for this project, Rehberger has selected images from the stockpiles of Action Press, a photo agency with one of the biggest databases in the world. With these, he has distorted them and built them into five animated digital collages called Liquid Posters. Composed of a total of 3,750 unique digital frames are the five Liquid posters NFTs.
-
-Rehberger worked with many partners in the creation of ‘Fairytales and Conspiracies’ NFT art collection. Namely, the clips feature quotes from Max Frisch’s book ‘Fragebogen’ (Questionnaire). Also, DJ, Markus Nikolai created the accompanying music. Finally, FINPRO handled the technical implementation of the smart contracts and UI.
-
-A vernissage will be host to the first showing of the five Liquid Posters, starting at 6 PM at the TechQuartier in Frankfurt, Germany. . It will not be until 7 PM that the clips can be seen on the website, and the NFTs purchased. Rehberger hasn’t come out with an exact price yet. An ETH equivalent of an upper-range triple-digit Euro amount will be the price, noted Rehberger.
-
-All news, information, and previews will be seen on the project’s Twitter, @fairytalesandc.
-
-Benefits for Buyers
-In addition, the creation process of ‘Fairytales and Conspiracies’ involves the viewers and potential buyers. Only when they decide on a frame and purchase is the NFT generated and automatically transferred to a digital Ethereum wallet. In addition to the digital frame, which is unique, part of the purchased NFT is an A1 print on paper of the selected frame signed by the artist – thus also unique – as well as a video file of the Liquid Poster from which the frame originates. Worldwide via mail, the buyers will have the A1 print delivered to their door.
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Crowdin.net Sample Android XML resource file
+Copyright (C) 2014
+-->
+<resources>
+  <string name="welcome">Willkommen!</string>
+  <string name="save_as">Speichern als...</string>
+  <string name="view">Ansicht</string>
+  <string name="about">Über...</string>
+  <string name="about_me">Über mich</string>
+  <string name="current_password">Aktuelles Passwort</string>
+  <string name="new_password">Neues Passwort</string>
+  <string name="confirm_password">Neues Passwort bestätigen</string>
+  <string name="change_password">Passwort ändern</string>
+  <string name="password_recovery">Passwort-Wiederherstellung</string>
+  <string name="password_reset_success">Ihr Passwort wurde erfolgreich zurückgesetzt!</string>
+  <string name="read_message">Nachricht lesen</string>
+  <string name="confirm_delete">Sind Sie sicher, dass Sie diese Nachricht löschen möchten?</string>
+  <string name="search_in_messages">In Nachrichten suchen</string>
+  <string name="compose_message">Nachricht verfassen</string>
+  <string name="no_date">Kein Datum angegeben</string>
+  <string name="quick_start">Schnellstart</string>
+</resources>
